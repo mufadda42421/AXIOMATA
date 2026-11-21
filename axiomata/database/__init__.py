@@ -1,0 +1,1 @@
+"""Database layer: SQLite metadata store and DuckDB analytical store."""

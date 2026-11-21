@@ -1,0 +1,1 @@
+"""Core application services: config, events, application bootstrap."""

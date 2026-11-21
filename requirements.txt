@@ -1,0 +1,24 @@
+# AXIOMATA dependencies
+# Install with:  pip install -r requirements.txt
+
+PySide6>=6.6
+numpy>=1.26
+scipy>=1.11
+sympy>=1.12
+pandas>=2.1
+matplotlib>=3.8
+duckdb>=0.10
+astropy>=6.0
+rdkit>=2023.9
+pyvista>=0.43
+pyvistaqt>=0.11
+pyqtgraph>=0.13
+
+# Optional 3D physics backend (not required; 3D sandbox has a built-in engine):
+# pybullet>=3.2
+
+# Testing
+pytest>=7.4
+
+# Packaging (Windows)
+# pyinstaller>=6.0

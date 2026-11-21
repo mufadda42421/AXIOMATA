@@ -1,0 +1,1 @@
+"""Scientific reference library (constants, units, formulas)."""
